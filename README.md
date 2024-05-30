@@ -17,6 +17,7 @@ Employee turnover can significantly impact the stability and productivity of any
 
 - **Random Forest Classifier**
 - **Artificial Neural Network Classifier**
+- **Logistic Regression Classifier**
 
 ## Benefits
 
